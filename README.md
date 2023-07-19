@@ -4,13 +4,6 @@ Spotify Audio Analysis Repo for CS 5440
 # Meeting Room
 Team meeting room is **202-A**.
 
-# (Violet) Team Members
- - Imbleau, Spencer
- - Frazier, Maclean
- - Lapenseee-Rankine, Danielle
- - Reeves, Andrew
- - Lovingood, Jake
-
 # Tools, IDEs, Environments
  - Python 3.7+
  - Anaconda 3 - [Install](https://docs.anaconda.com/anaconda/install/)

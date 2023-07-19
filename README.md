@@ -1,9 +1,6 @@
 # Spotify Audio Analysis
 Spotify Audio Analysis Repo for CS 5440
 
-# Meeting Room
-Team meeting room is **202-A**.
-
 # Tools, IDEs, Environments
  - Python 3.7+
  - Anaconda 3 - [Install](https://docs.anaconda.com/anaconda/install/)
@@ -21,6 +18,3 @@ Team meeting room is **202-A**.
    - Fix: `pip install seaborn`
  - `"AttributeError: 'str' object has no attribute 'decode' "` , while Loading a Keras Saved Model
    - Fix: `pip install 'h5py==2.10.0' --force-reinstall`
- 
-# WebCAT
-[http://webcatvm.cs.appstate.edu:8080/Web-CAT](http://webcatvm.cs.appstate.edu:8080/Web-CAT)
